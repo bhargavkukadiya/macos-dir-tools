@@ -1,6 +1,6 @@
-# 🧰 Scripts
+# 🧰 macOS Dir Tools
 
-A collection of utility scripts for directory comparison and folder scanning.
+A collection of macOS-friendly CLI tools for directory comparison and folder scanning.
 
 | | |
 |---|---|
@@ -12,7 +12,7 @@ A collection of utility scripts for directory comparison and folder scanning.
 ## 📂 Directory Structure
 
 ```
-scripts/
+macos-dir-tools/
 ├── .gitignore        # Git ignore rules
 ├── compare_dirs.sh   # Directory content comparison (4 methods)
 ├── scan_folder.py    # Directory listing with JSON/list output
